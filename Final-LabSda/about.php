@@ -51,3 +51,5 @@
             <td>:  Informatika</td> 
         </tr>
     </table></center>
+	</body>
+</html>
