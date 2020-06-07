@@ -27,13 +27,14 @@
 		
         </nav>
         
+        <div class="container">
       <center>  <table border="0" width='1000px'>
-        <h1>Biodata</h1> <br>
+        <h1>Biodata</h1> 
         <tr>
             <td rowspan="5">
-            <img src="assets\img\desintha1.jpg" width="300">
+            <img class="mat" src="assets\img\desintha1.jpg" width="300">
             </td>
-        </br>
+        </>
         <tr>
             <td>Nama</td>
             <td>:  Desintha Zahara Azmi</td>
@@ -50,6 +51,15 @@
             <td>Jurusan</td>
             <td>:  Informatika</td> 
         </tr>
-    </table></center>
+    </table></center><hr>
+        <div class="text-center row justify-content-center">
+            <a href="https://github.com/desinthazhr/java-hash-implementation-web/tree/master/Final-LabSda">
+                <i class="fa fa-github m-3" style="font-size: 35px; color: #000000; "></i>
+            </a>
+            <a href="https://www.instagram.com/desinthazhr/">
+                <i class="fa fa-instagram m-3" style="font-size: 35px; color: #000000;"></i>
+            </a>
+        </div>
+    </div>  
 	</body>
 </html>
